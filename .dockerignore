@@ -1,0 +1,12 @@
+### Node.js files ###
+node_modules
+npm-debug.log
+
+### Git ###
+.git*
+
+### misc ###
+*.zip
+ref.txt
+*.png
+Docker
