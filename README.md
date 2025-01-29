@@ -2,7 +2,7 @@
 If you want to embed images, this is how you do it:  
 
 <!--![Demo](todo-list-sample.png)-->
-<img src="todo-list-sample.png" alt="drawing" height="400" />
+<img src="nodejs-todo-app.png" alt="drawing" height="400" />
 
 ## Commands  
 **Build image from Dockerfile**
