@@ -24,4 +24,18 @@ docker inspect <container_id>
 docker exec -it <container_id> /bin/sh
 ```
 
+**Execute Command for login to dockerhub via CLI**
+```
+docker login -u <dockerhub username>
+```
+
+**Push the Dockerfile to Dockerhub**
+```
+docker tag <source_image> <target_image>
+```
+
+```
+docker push <dockerhubusername>/nodejs-todo-app:tagname
+```
+
  
